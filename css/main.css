@@ -1,0 +1,28 @@
+#hero-img{
+    height: 200px;    
+    display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+#product1 , #product2{
+    height: 100px;    
+    display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+#service1 , #service2 , #service3 , #service4 , #service5 , #service6 {
+    height: 100px;    
+    display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+#foot{
+    height: 100px;  
+    display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;  
+}

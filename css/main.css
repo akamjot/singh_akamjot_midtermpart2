@@ -1,12 +1,4 @@
-#product1 , #product2{
-    height: 100px;    
-    display: flex;
-  align-items: center;
-  justify-content: center;
-  text-align: center;
-}
-
-#hero-img{
+#deal1 , #deal2{
     height: 200px;    
     display: flex;
   align-items: center;
@@ -14,8 +6,16 @@
   text-align: center;
 }
 
-#service1 , #service2 , #service3 , #service4 , #service5 , #service6 {
-    height: 100px;    
+#sale{
+    height: 250px;    
+    display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+#shoe1 , #shoe2 , #shoe3 {
+    height: 150px;    
     display: flex;
   align-items: center;
   justify-content: center;
